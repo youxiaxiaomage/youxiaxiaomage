@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @youxiaxiaomage
-- 👀 I’m interested in Java, Python.
-- 🌱 I’m currently learning Netty
-- 💞️ I’m looking to collaborate on ...
+- 👋 youxiaxiaomage，chinese name 游侠小马哥
+- 👀 Java
+- 🌱 DDD
 - 📫 yanzhao_jn@163.com  https://gitee.com/youxiaxiaomage
 
 <!---
