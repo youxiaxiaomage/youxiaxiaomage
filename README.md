@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java, Python.
 - 🌱 I’m currently learning Netty
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 yanzhao_jn@163.com  https://gitee.com/youxiaxiaomage
 
 <!---
 youxiaxiaomage/youxiaxiaomage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
